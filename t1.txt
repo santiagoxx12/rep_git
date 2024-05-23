@@ -5,4 +5,9 @@ holllll
 =======
 hola santi
 >>>>>>> ram1
+<<<<<<< HEAD
 hola mi gorda
+=======
+hola Eder
+hola santi
+>>>>>>> ram2
