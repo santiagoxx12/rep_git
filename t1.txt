@@ -1,3 +1,7 @@
 hola
 
+<<<<<<< HEAD
 holllll
+=======
+hola santi
+>>>>>>> ram1
